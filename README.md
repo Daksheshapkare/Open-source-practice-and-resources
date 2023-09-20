@@ -185,6 +185,7 @@ Add resources in other languages too :point_down:
 ### Java
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/java)
 - :video_camera: [Full Course](https://www.youtube.com/watch?v=eIrMbAQSU34)
+- :video_camera: [Full Course](https://youtu.be/eIrMbAQSU34?feature=shared)
 - :file_folder: [Official Documentation](https://docs.oracle.com/en/java/) 
 - :file_folder: [Java Course from edx](https://www.edx.org/course/java-programming-fundamentals)
 main
