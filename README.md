@@ -143,6 +143,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/python)
 - :video_camera: [Freecodecamp Full Course](https://www.youtube.com/watch?v=rfscVS0vtbw&t=112s)
+- :video_camera:[one shot full course](https://youtu.be/XnSasPR2KJI?feature=shared)
+- :video_camera: [Full course for beginners](https://youtu.be/_uQrJ0TkZlc?feature=shared)
 - :file_folder: [Official Documentation](https://www.python.org/)
 - :file_folder: [30 Days of Python (Repo)](https://github.com/Asabeneh/30-Days-Of-Python)
 - :file_folder: [Awesome Python](https://awesome-python.com)
